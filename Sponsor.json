@@ -1,9 +1,9 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": " Snapchat Update",
   "content_url": "https://t.me/SKMods_000",
   "positive_btn": "Download",
-  "link": "https://telegram.me/sktech_000"
+  "link": "https://telegram.me/sktech_000",
   "cancelable": false
 
 }
