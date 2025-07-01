@@ -6,6 +6,6 @@
   "positive_btn": "Download",
     "down_link": "https://google.com",
   "link": "",
-  "cancelable": false
+  "cancelable": true
 
 }
