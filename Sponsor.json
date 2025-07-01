@@ -1,8 +1,10 @@
 {
   "show_message": true,
-  
-
-
+    "show_content": true,
+    "content_url": "https://t.me/SKMods_000",
+  "title": " Snapchat Update",
+  "positive_btn": "Download",
+    "down_link": "https://google.com",
   "link": "",
   "cancelable": false
 
