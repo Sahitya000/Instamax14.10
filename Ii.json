@@ -1,0 +1,19 @@
+{
+  "classCheck": [
+    "com.skmods.sponsor",
+    
+    "com.lucky.patcher.LP"
+  ],
+  "linkCheck": [
+    
+    "lulubox"
+  ],
+  "layoutCheck": [
+    
+    "layout_pro"
+  ],
+  "stringCheck": [
+  
+    "XXX"
+  ]
+}
