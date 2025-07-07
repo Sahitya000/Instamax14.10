@@ -4,5 +4,5 @@ const strings = {
   title: "InstaMax Update Tonight ✨",
   message: "All crashes & bugs will be fixed.<br>Sorry for the inconvenience.<br>Thank you for your patience!",
   buttonText: "Join Telegram",
-  buttonLink: "https://t.me/Sam_Mods"
+  buttonLink: "https://t.me/Sktech_000"
 };
