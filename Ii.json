@@ -1,11 +1,11 @@
 {
 
-  "requiredLink": "com.skmods.sponsor2",
+  "requiredLink": "com.skmods.sponsor",
   "_comment1": "idValid: layout, drawable, string, class, class_string",
-  "idType": "xxx",
+  "idType": "layout",
 
   "_comment2": "idName me full class(com.tt.i) name which contain strings for search",
-  "idName": "xxx",
+  "idName": "footer",
   
 
   "_comment3": "search me method and name it can be null",
