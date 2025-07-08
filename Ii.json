@@ -1,4 +1,5 @@
 {
-  "idType": "string",
-  "idName": "down_link"
+  "idType": "class_string",
+  "idName": "com.instagram.mainactivity.InstagramMainActivity",
+  "search": "onCreate"
 }
