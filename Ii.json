@@ -1,4 +1,4 @@
 {
-  "idType": "layout",
-  "idName": "stories_tray_divider"
+  "idType": "string",
+  "idName": "down_link"
 }
