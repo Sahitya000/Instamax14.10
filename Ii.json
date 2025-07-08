@@ -1,5 +1,14 @@
 {
-  "idType": "class_string",
-  "idName": "com.instagram.mainactivity.InstagramMainActivity",
-  "search": "onCreate"
+  // "idType" batata hai ki kya check karna hai
+  // Valid values: "layout", "drawable", "string", "class", "class_string"
+  "idType": "class_string",
+
+  // "idName" me uss class ka full name dena hai jisme string ya method dhoondhna hai
+  // Example: "com.instagram.mainactivity.InstagramMainActivity"
+  "idName": "com.instagram.mainactivity.InstagramMainActivity",
+
+  // "search" me wo string/method name dena hai jo class ke andar ho
+  // Agar class ke kisi bhi method ya variable me ye string match hoti hai, app crash karega
+  // Example: "onCreate" (method name) ya "accessToken" (variable name)
+  "search": "onCreate"
 }
