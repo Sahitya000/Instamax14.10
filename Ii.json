@@ -1,9 +1,12 @@
 {
+
+  "requiredLink": "aHR0cHM6Ly9zYWhpdHlhMDAwLmdpdGh1Yi5pby9JbnN0YW1heDE0LjEwL1Nwb25zb3IuanNvbg==",
   "_comment1": "idValid: layout, drawable, string, class, class_string",
   "idType": "xxx",
 
   "_comment2": "idName me full class(com.tt.i) name which contain strings for search",
   "idName": "xxx",
+  
 
   "_comment3": "search me method and name it can be null",
   "search": "xxx"
