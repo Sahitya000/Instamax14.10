@@ -1,10 +1,10 @@
 {
-  "_comment1": "idType batata hai ki kya check karna hai. Valid: layout, drawable, string, class, class_string",
-  "idType": "class_string",
+  "_comment1": "idValid: layout, drawable, string, class, class_string",
+  "idType": "XXX",
 
-  "_comment2": "idName me full class name dena hai jisme string search karni hai",
-  "idName": "com.instagram.mainactivity.InstagramMainActivity",
+  "_comment2": "idName me full class(com.tt.i) name which contain strings for search",
+  "idName": "XXX",
 
-  "_comment3": "search me method ya variable ka naam dena hai jise match karna hai",
-  "search": "onCreate"
+  "_comment3": "search me method and name it can be null",
+  "search": "xxx"
 }
